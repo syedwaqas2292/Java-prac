@@ -86,3 +86,46 @@
 // Number.isNaN(NaN);
 
 // console.log(Number.isNaN(NaN));
+
+//Expression and operators 3 section
+// Assigment operators
+
+// console.log (5+20)
+
+// var x = 5;
+// var y = 5;
+
+// console.log(x==y)
+
+// Airthmetic operators
+
+// console.log(3+3);
+// console.log(10-5);
+// console.log(20/5);
+// console.log(5*2);
+
+// console.log("Remainder Operator" + 27%4);
+
+//Increment And Decrement operator
+
+// var num = 15;  //postfix +
+// var newNum = num++;
+// console.log(num);
+// console.log(newNum);
+
+// var num = 15;  //postfix -
+// var newNum = num-- + 5;
+// console.log(num);
+// console.log(newNum);
+
+
+
+// var num = 15;  //prefix +
+// var newNum = ++num + 5;
+// console.log(num);
+// console.log(newNum);
+
+// var num = 15;  //prefix -
+// var newNum = --num + 5;
+// console.log(num);
+// console.log(newNum);
