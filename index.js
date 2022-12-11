@@ -298,3 +298,23 @@
 //     console.log ("please enter valid data");
     
 // }
+
+// While Loop
+
+// var num=20;
+// // block scope
+// while (num <= 10 ){
+//     console.log(num); //infinite loop
+//     num++;
+// }
+
+// Do While Loop Statement
+
+// var num=20;
+// do{
+//     console.log(num); //infinite loop
+//     num++;
+// }while (num <= 10);
+    
+
+ 
