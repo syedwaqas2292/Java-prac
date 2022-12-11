@@ -392,3 +392,49 @@
 
 //// STARTING MODERN JAVASCRIPT ES6
 
+// VAR ==> FUNCTION SCOPE 
+// LET AND CONST ==> BLOCK SCOPE
+
+
+// var myName ="waqas naeem"
+// console.log(myName);
+
+// myName="waqas technical"
+// console.log(myName);
+
+
+// let myName ="waqas naeem"
+// console.log(myName);
+
+// myName="waqas technical"
+// console.log(myName);
+
+
+// const myName ="waqas naeem" // Const Cannot be change 
+// console.log(myName);
+
+// myName="waqas technical"
+// console.log(myName);
+
+
+// function biodata(){
+//     let myFirstName ="waqas"
+//     console.log(myFirstName);
+
+//     if(true){
+//         let myLastName = "naeem"
+//         console.log('inner ' + myLastName);
+//         console.log('inner ' + myFirstName);
+//     }
+//     console.log('innerOuter ' + myLastName);
+// }
+// biodata();
+
+// TEMPLATE LITERALS
+
+// for(var num = 0; num <=10; num++){  
+//     var tableOf =12;
+//    // console.log(tableOf + " * " + num + " = " + tableOf * num);
+//    console.log(` ${tableOf} * ${num} = ${tableOf * num} `); //template literals
+// }
+
