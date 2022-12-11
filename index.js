@@ -312,9 +312,83 @@
 
 // var num=20;
 // do{
+//     debugger;
 //     console.log(num); //infinite loop
 //     num++;
 // }while (num <= 10);
     
 
+// for(var num =0; num <=10; num++){
+//     debugger;
+//     console.log(num);
+// }
+
+
+ // CHALLENGE TIME 
+// JAVA SCRIPT PROGRAM TO PRINT TABLE FOR GIVEN NUMBER (8)?
+
+// Creating table help of for loop
  
+// for(var num = 0; num <=10; num++){  
+//     var tableOf =8;
+//     console.log(tableOf + " * " + num + " = " + tableOf * num);
+// }
+
+// for(var num = 0; num <=10; num++){  
+//     var tableOf =9;
+//     console.log(tableOf + " * " + num + " = " + tableOf * num);
+// }
+
+// Functions
+// A JavaScript function is a block of code designed to perform a particular task.
+
+//  var a = 10;
+//  var b = 20;
+//  var sum= a+b;
+//  console.log(sum);
+
+// function sum(){   //Function Define
+//     var a = 10,b = 50;
+//     var total = a+b;
+//     console.log(total);
+// }
+
+// sum();          //Function Calling
+
+
+// function sum(a,b){    // Function Parameter define a,b.... 
+//     var total = a+b;
+//     console.log(total);
+// }
+
+// sum();       // Function Argument Calling NaN coz empty
+// sum(20,30);  // Function Argument Calling 20,30..
+// sum(30,30); // Function Argument Calling 30,30..
+
+
+// function sum(a,b){    
+//     var total = a+b;
+//     console.log(total);
+// }
+
+// var funExp = sum(5,15);
+//funExp; // Function Expression incomplete use return keyword to complete function expressions..
+
+// function sum(a,b){    
+//     return total = a+b;  // Complete Function
+// }
+// var funExp = sum(5,15);
+// console.log('the sum of 2 numbers is ' + funExp);  
+
+// ANONYMOUS FUNCTION 
+
+// var funExp = function(a,b){    //Function Define //this code is Anonymous function start function end }
+//     return total = a+b;        //Whole code is called Anonymous function expression 
+// }
+
+// var sum = funExp(15,15);
+// var sum1 =funExp(20,15);
+// console.log(sum > sum1);
+
+//// STARTING MODERN JAVASCRIPT ES6
+
