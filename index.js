@@ -201,5 +201,53 @@
 // console.log("The value of a is " + a);
 // console.log("The value of b is " + b);
 
+// var num1 = 5;
+// var num2 = "5";
+
+// console.log(typeof(num1));
+// console.log(typeof(num2));
+// console.log(num1 === num2);
+
+
+//CONTROL STATEMENT AND LOOPS
+
+//  If raining = raincoat;
+//  else no raincoat;
+
+// var tomr = 'sunny';
+
+// if(tomr == 'rain')
+// {
+//     console.log('Take a raincoat');
+// }
+//     else
+//     {
+//         console.log('No need to Take a raincoat');
+
+//     }
+    
+
+// CHALLENGE TIME
+
+
+// var year = 2020;
+// debugger;
+// if(year % 4 === 0){
+//     if(year % 100 === 0){
+//     if(year % 400 === 0){
+//         console.log("The year " + year + " is a leap year ")
+//     }else{
+//         console.log("The year " + year + " is not a leap year ")
+
+//     }
+
+//     }else{
+//         console.log("The year " + year + " is a leap year ")
+//     }
+
+
+// }else{
+//     console.log("The year " + year + " is not a leap year ")
+// }
 
 
