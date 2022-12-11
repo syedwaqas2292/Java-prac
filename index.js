@@ -250,4 +250,51 @@
 //     console.log("The year " + year + " is not a leap year ")
 // }
 
+// we have total 5 falsy values in javascript
+// 0,"",undefined,null,NaN,false** is false anyway
 
+// if (scores = 15){   
+//     console.log("Yay, we won the Game");
+// }else{
+//     console.log("Omg, we loss the Game");
+// }
+
+
+// Ternory Operator
+
+// var myAge = 20;
+// console.log((myAge >= 18)? "You can vote":"You Can't vote");
+
+
+//Switch Statements
+
+// var area ="square";
+// var PI = 3.142, l=5, b=4, r=3;
+
+// if (area == "Circle"){
+//     console.log("the area of the circle is : " + PI*r**2);
+// }else if(area == "triangle"){
+//     console.log("the area of the triangle is : " + (l*b)/2);
+// }else if (area == "rectangle"){
+//     console.log("the area of the rectangle is : " + (l*b));
+// }else {
+//     console.log ("please enter valid data");
+// }
+
+// var area ="rectangsasale";
+// var PI = 3.142, l=5, b=4, r=3;
+
+// switch(area){
+//  case 'circle':
+//  console.log("the area of the circle is : " + PI*r**2);
+//   break;
+//   case 'triangle':
+//     console.log("the area of the triangle is : " + (l*b)/2);
+//     break;
+//    case 'rectangle':
+//     console.log("the area of the rectangle is : " + (l*b));
+//     break;
+//     default:
+//     console.log ("please enter valid data");
+    
+// }
