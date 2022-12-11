@@ -160,3 +160,46 @@
 // console.log(myName + " Naeem");
 // console.log(myName + " Syed");
 
+// Challenge Time
+
+
+//sol 1:  Output of 3**3?....
+
+// console.log(3**5);
+// console.log(10**-1);
+
+//sol 2: add number and string ?
+
+// console.log(5 - "waqas")
+
+//sol 3 write a program to swap 2 numbers ?
+
+// var a = 5;
+// var b = 10;
+
+// //output b=5; a=10
+
+// var c = b; //c =10
+// var b= a; //b=5;
+// var a=c;
+
+// console.log("The value of a is " + a);
+// console.log("The value of b is " + b);
+
+// sol 4 write a program to swap 2 numbers without using 3 variable ?
+
+
+// var a = 5;
+// var b = 10;
+
+// //output b=5; a=10
+
+// a = a+b; // a=15;
+// b = a-b; // b=5;
+// a = a-b; // a=10
+
+// console.log("The value of a is " + a);
+// console.log("The value of b is " + b);
+
+
+
