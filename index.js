@@ -129,3 +129,34 @@
 // var newNum = --num + 5;
 // console.log(num);
 // console.log(newNum);
+
+//Comparison Operator
+
+// var a = 30;
+// var b = 10;
+
+// console.log(a <= b);
+
+
+//Logical Operators
+
+// var a =30;
+// var b = -20;
+
+// console.log(a > b && b > -50 && b < 0 ); 
+
+// console.log(a < b  || b > -50 || b > 0 );  
+// console.log(!true)
+
+
+/// String Operators
+
+// console.log("Hellow world");
+
+// console.log("hellow "+ "world");
+
+// var myName = "Waqas";
+
+// console.log(myName + " Naeem");
+// console.log(myName + " Syed");
+
